@@ -1,12 +1,4 @@
 {
-  "headers": [
-    {
-      "source": "/(.*)",
-      "headers": [
-        { "key": "Cross-Origin-Opener-Policy", "value": "same-origin" }
-      ]
-    }
-  ],
   "cleanUrls": true,
   "trailingSlash":false,
   "rewrites": [
